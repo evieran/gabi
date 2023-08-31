@@ -1,0 +1,10 @@
+KPI index
+"Automation Conversation = conversations fully handled by the bot, with customer confirming their issue is resolved"
+"Meaningful Drop-off = bot understand customer’s intent, customer drops off before information/resolution can be provided by the bot"
+"Not Understood Drop-off = bot does not understand customer’s intent, customer drops off before repeating their initial inquiry to the bot"
+"Planned Escalation = no self-service solution offered within bot flow, customer information is collected before escalation to agent"
+"Reopen + escalation (thank you) = customer reopens previous conversation and triggers the “thank you” intent, is escalated to an agent"
+"Reopen + escalation (other) =  customer reopens previous conversation and triggers any other intent, is escalated to an agent"
+Not Resolved = customer confirms their request as not resolved within the intent
+"Informed + No Status = customer receives information on how to resolve their inquiry, no end status is recorded"
+Initial Failed Escalation to Agent = customer escalation to agent fails (at least first attempt)

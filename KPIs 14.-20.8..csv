@@ -1,0 +1,148 @@
+,Conversation Language,
+Automation Conversation Count,Unknown,0
+,German,338
+,English,"1,598"
+,French,408
+,Italian,465
+,Spanish,252
+,Total,"3,061"
+Automation Rate,Unknown,0.00%
+,German,11.18%
+,English,10.50%
+,French,10.93%
+,Italian,12.24%
+,Spanish,11.49%
+,Total,10.94%
+Meaningful Drop off Count,Unknown, 10 
+,German, 558 
+,English," 2,118 "
+,French, 657 
+,Italian, 725 
+,Spanish, 456 
+,Total," 4,524 "
+Meaningful Drop off Rate,Unknown,55.56%
+,German,18.46%
+,English,13.91%
+,French,17.60%
+,Italian,19.09%
+,Spanish,20.78%
+,Total,16.16%
+Not Understood Drop off Count,Unknown, 0 
+,German, 213 
+,English, 884 
+,French, 275 
+,Italian, 268 
+,Spanish, 154 
+,Total," 1,794 "
+Not Understood Drop off Rate,Unknown,0.00%
+,German,7.05%
+,English,5.81%
+,French,7.37%
+,Italian,7.06%
+,Spanish,7.02%
+,Total,6.41%
+Planned Escalation Count,Unknown, 0 
+,German," 1,530 "
+,English," 8,370 "
+,French," 1,979 "
+,Italian," 1,936 "
+,Spanish," 1,079 "
+,Total," 14,894 "
+Planned Escalation Rate,Unknown,0.00%
+,German,50.61%
+,English,54.99%
+,French,53.01%
+,Italian,50.97%
+,Spanish,49.18%
+,Total,53.22%
+Reopen + escalation (other) Count,Unknown, 8 
+,German, 150 
+,English, 775 
+,French, 175 
+,Italian, 160 
+,Spanish, 96 
+,Total," 1,364 "
+Reopen + escalation (other) Rate,Unknown,44.44%
+,German,4.96%
+,English,5.09%
+,French,4.69%
+,Italian,4.21%
+,Spanish,4.38%
+,Total,4.87%
+Reopen + escalation (thank you) Count,Unknown, 0 
+,German, 114 
+,English, 533 
+,French, 110 
+,Italian, 93 
+,Spanish, 83 
+,Total, 933 
+Reopen + escalation (thank you) Rate,Unknown,0.00%
+,German,3.77%
+,English,3.50%
+,French,2.95%
+,Italian,2.45%
+,Spanish,3.78%
+,Total,3.33%
+Failed Escalation Count,Unknown, 0 
+,German, 0 
+,English, 98 
+,French, 3 
+,Italian, 2 
+,Spanish, 5 
+,Total, 108 
+Failed Escalation Rate,Unknown,0.00%
+,German,0.00%
+,English,0.64%
+,French,0.08%
+,Italian,0.05%
+,Spanish,0.23%
+,Total,0.39%
+Not Resolved Count,Unknown, 0 
+,German, 92 
+,English, 333 
+,French, 75 
+,Italian, 113 
+,Spanish, 52 
+,Total, 665 
+Not Resolved Rate,Unknown,0.00%
+,German,3.04%
+,English,2.19%
+,French,2.01%
+,Italian,2.98%
+,Spanish,2.37%
+,Total,2.38%
+Informed + No Status Count,Unknown, 0 
+,German, 27 
+,English, 480 
+,French, 49 
+,Italian, 35 
+,Spanish, 17 
+,Total, 608 
+Informed + No Status Rate,Unknown,0.00%
+,German,0.89%
+,English,3.15%
+,French,1.31%
+,Italian,0.92%
+,Spanish,0.77%
+,Total,2.17%
+Initial Failed Escalation to Agent Escalation Count,Unknown, 0 
+,German, 1 
+,English, 32 
+,French, 2 
+,Italian, 1 
+,Spanish, 1 
+,Total, 37 
+Initial Failed Escalation to Agent Escalation Rate,Unknown,0.00%
+,German,0.03%
+,English,0.21%
+,French,0.05%
+,Italian,0.03%
+,Spanish,0.05%
+,Total,0.13%
+Total Conversations,Unknown,18
+,German,"3,023"
+,English,"15,221"
+,French,"3,733"
+,Italian,"3,798"
+,Spanish,"2,194"
+,Total,"27,987"
